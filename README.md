@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=70)
 Studying Computer Science at Dongguk Univ. Republic of Korea
-- 😄 Pronouns : Sincerity
+- 😄 Pronouns : He/Him
 - ⚡ Field of interest : Server/Database
 - 📫 How to reach me : kkw2775@gmail.com
+- 🌱 Currently learning : Python and Django
+- 🔭 Currently working on : Center for Yonsei finance and technology's Hompage / Application about analyzing water pollution
 
 
 <h1 align='center'>About Me</h1>
@@ -42,6 +44,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/MS&nbsp;Server-CC2927?style=for-the-badge&logo=Microsoft&nbspSQL&nbspServer&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'/>
+<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white'/>
 </p>
 </p>
