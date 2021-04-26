@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Kwanwoo%20👋&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=70)
 Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : Sincerity
 - ⚡ Field of interest : Server/Database
@@ -28,9 +28,21 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/CSS-0B3861?style=for-the-badge&logo=CSS3&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&nbspAWS&logoColor=white'/>
+<img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&nbspAWS&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=Microsoft&nbspAccess&logoColor=white'/>
+</p>
+
+<h3 align="center">Techs that I've used at least once</h3>
+<p align="center">
+<img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/MS&nbspServer-CC2927?style=for-the-badge&logo=Microsoft&nbspSQL&nbspServerSQL&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/Prolog-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'/>
 </p>
 </p>
