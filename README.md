@@ -40,9 +40,8 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/MS&nbspServer-CC2927?style=for-the-badge&logo=Microsoft&nbspSQL&nbspServerSQL&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/MS Server-CC2927?style=for-the-badge&logo=Microsoft&nbspSQL&nbspServerSQL&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/Prolog-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'/>
+<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white'/>
 </p>
 </p>
