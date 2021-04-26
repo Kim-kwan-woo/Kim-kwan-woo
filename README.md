@@ -16,7 +16,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 
 <h1 align='center'>Tech Stack</h1>
 <p align="center" vertical-align='center'>
-<h3>I'm familiar with...</h3>
+<h3 align="center">I'm familiar with...</h3>
 <p align="center">
 <img src='https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/C++-452170?style=for-the-badge&logo=c&logoColor=white'/></t></t>
