@@ -4,6 +4,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 - ⚡ Field of interest : Server/Database
 - 📫 How to reach me : kkw2775@gmail.com
 
+
 <h1 align='center'>About Me</h1>
 <p align="center" vertical-align='center'>
 <a href="https://github.com/Kim-kwan-woo">
@@ -12,8 +13,11 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-kwan-woo&layout=compact"/></a>
 </p>
 
+
 <h1 align='center'>Teck Stack</h1>
 <p align="center" vertical-align='center'>
 <h3>I'm familiar with...</h3>
+<p align="center">
 <img src='https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white'/><img src='https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=C++&logoColor=white'/><img src='https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white'/><img src='https://img.shields.io/badge/C-58ACFA?style=for-the-badge&logo=C&logoColor=white'/>
+</p>
 </p>
