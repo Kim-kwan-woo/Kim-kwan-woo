@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=50)
 Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Server/Database
@@ -7,7 +7,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 - 🔭 Currently working on : Center for Yonsei finance and technology's Hompage / Application about analyzing water pollution
 
 
-<h1 align='center'>About Me</h1>
+<h2 align='center'>👨 About Me 👨</h2>
 <p align="center" vertical-align='center'>
 <a href="https://github.com/Kim-kwan-woo">
 <img alt="Kim-kwan-woo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kim-kwan-woo&show_icons=true&count_private=true"/></a>
@@ -16,7 +16,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 </p>
 
 
-<h1 align='center'>Tech Stack</h1>
+<h2 align='center'>💻 Tech Stack 💻</h2>
 <p align="center" vertical-align='center'>
 <h3 align="center">I'm familiar with...</h3>
 <p align="center">
