@@ -24,7 +24,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <img src='https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white'/></n>
+<img src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white'/></br>
 <img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/CSS-0B3861?style=for-the-badge&logo=CSS3&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white'/></t></t>
