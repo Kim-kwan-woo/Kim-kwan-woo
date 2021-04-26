@@ -18,6 +18,9 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <p align="center" vertical-align='center'>
 <h3>I'm familiar with...</h3>
 <p align="center">
-<img src='https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white'/><img src='https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=C++&logoColor=white'/><img src='https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white'/><img src='https://img.shields.io/badge/C-58ACFA?style=for-the-badge&logo=C&logoColor=white'/>
+<img src='https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white'/></t>
+  <img src='https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=C++&logoColor=white'/></t>
+  <img src='https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white'/></t>
+  <img src='https://img.shields.io/badge/C-58ACFA?style=for-the-badge&logo=C&logoColor=white'/></t>
 </p>
 </p>
