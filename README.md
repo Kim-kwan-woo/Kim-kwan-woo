@@ -1,16 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Kwanwoo%20👋&fontSize=70)
+Studying Computer Science at Dongguk Univ. Republic of Korea
+- 😄 Pronouns : Sincerity
+- ⚡ Field of interest : Server/Database
+- 📫 How to reach me : kkw2775@gmail.com
 
-<!--
-**Kim-kwan-woo/Kim-kwan-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'>About Me</h1>
+<p align="center" vertical-align='center'>
+<a href="https://github.com/Kim-kwan-woo">
+<img alt="Kim-kwan-woo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kim-kwan-woo&show_icons=true&count_private=true"/></a>
+  <a href="https://github.com/Kim-kwan-woo">
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-kwan-woo&layout=compact"/></a>
