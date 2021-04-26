@@ -6,7 +6,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 - 🌱 Currently learning : Python and Django
 - 🔭 Currently working on : Center for Yonsei finance and technology's Hompage / Application about analyzing water pollution
 
-
+</br>
 <h2 align='center'>👨 About Me 👨</h2>
 <p align="center" vertical-align='center'>
 <a href="https://github.com/Kim-kwan-woo">
@@ -15,7 +15,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-kwan-woo&layout=compact"/></a>
 </p>
 
-
+</br>
 <h2 align='center'>💻 Tech Stack 💻</h2>
 <p align="center" vertical-align='center'>
 <h3 align="center">I'm familiar with...</h3>
