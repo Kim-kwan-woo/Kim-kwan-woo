@@ -14,7 +14,7 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 </p>
 
 
-<h1 align='center'>Teck Stack</h1>
+<h1 align='center'>Tech Stack</h1>
 <p align="center" vertical-align='center'>
 <h3>I'm familiar with...</h3>
 <p align="center">
