@@ -10,3 +10,13 @@ Studying Computer Science at Dongguk Univ. Republic of Korea
 <img alt="Kim-kwan-woo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kim-kwan-woo&show_icons=true&count_private=true"/></a>
   <a href="https://github.com/Kim-kwan-woo">
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-kwan-woo&layout=compact"/></a>
+
+<h1 align='center'>Teck Stack</h1>
+<p align="center" vertical-align='center'>
+<p align="center">
+<h3 align='center'>I'm familiar with...</h3>
+<img src='https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white&logoWidth=40'/>
+<img src='https://img.shields.io/badge/C++-00BFFF?style=for-the-badge&logo=C++%2B%2B&logoColor=white&logoWidth=40'/>
+<img src='https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&logoWidth=40'/>
+<img src='https://img.shields.io/badge/C-58ACFA?style=for-the-badge&logo=C&logoColor=white&logoWidth=40'/>
+</p>
