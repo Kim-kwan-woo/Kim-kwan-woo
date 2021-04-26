@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=50)
-Studying Computer Science at Dongguk Univ. Republic of Korea
+### Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Server/Database
 - 📫 How to reach me : kkw2775@gmail.com
