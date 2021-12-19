@@ -7,15 +7,6 @@
 - 🔭 Currently working on : News Summary APP
 
 </br>
-<h2 align='center'>👨 About Me 👨</h2>
-<p align="center" vertical-align='center'>
-<a href="https://github.com/Kim-kwan-woo">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-kwan-woo&layout=compact"/></a>
-<a href="https://github.com/Kim-kwan-woo">
-<img alt="Kim-kwan-woo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kim-kwan-woo&show_icons=true&count_private=true"/></a>
-</p>
-
-</br>
 <h2 align='center'>💻 Tech Stack 💻</h2>
 <p align="center" vertical-align='center'>
 <h3 align="center">I'm familiar with...</h3>
