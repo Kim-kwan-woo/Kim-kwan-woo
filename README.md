@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=50)
 ### Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Android App
