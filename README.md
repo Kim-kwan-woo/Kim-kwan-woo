@@ -14,13 +14,9 @@
 <img src='https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&nbspAccess&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/C++-452170?style=for-the-badge&logo=cplusplus&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=white'/></br>
 <img src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/CSS-0B3861?style=for-the-badge&logo=CSS3&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&nbspAWS&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white'/></t></t>
@@ -29,7 +25,6 @@
 
 <h3 align="center">Techs that I've used at least once</h3>
 <p align="center">
-<img src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&nbspAccess&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white'/></br>
