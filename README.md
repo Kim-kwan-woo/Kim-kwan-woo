@@ -4,7 +4,6 @@
 <a href="https://github.com/Kim-kwan-woo"><img src="https://img.shields.io/badge/GitHub-181717?style=appveyor&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@kw2577"><img src="https://img.shields.io/badge/Velog-3DDC84?style=appveyor&logo=Velog&logoColor=white"/></a>
 </p>
-
 ### Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Android App
