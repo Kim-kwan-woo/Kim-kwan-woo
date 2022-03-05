@@ -1,8 +1,10 @@
 ## 👋 Hi there, I'm KWANWOO 
+
 <p>
 <a href="https://github.com/Kim-kwan-woo"><img src="https://img.shields.io/badge/GitHub-181717?style=appveyor&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@kw2577"><img src="https://img.shields.io/badge/Velog-3DDC84?style=appveyor&logo=Velog&logoColor=white"/></a>
 </p>
+
 ### Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Android App
@@ -14,6 +16,7 @@
 <h3>💻 Tech Stack 💻</h3>
 <h4>I'm familiar with...</h4>
 <p>
+<img src='https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&nbspAccess&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&nbspAccess&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white'/></t></t>
