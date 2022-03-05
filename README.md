@@ -9,7 +9,7 @@
 - ⚡ Field of interest : Android App
 - 📫 How to reach me : kkw2775@gmail.com
 - 🌱 Currently learning : Android and Kotlin
-- 🔭 Currently working on : Stying Android native app
+- 🔭 Currently working on : Studying Android native app
   
 </br>
 <h3>💻 Tech Stack 💻</h3>
