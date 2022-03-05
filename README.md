@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Hi,%20I'm%20KWANWOO%20👋&fontSize=30)
-## Hi there, I'm KWANWOO
+## Hi there, I'm KWANWOO 👋
 ### Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Android App
@@ -8,8 +7,8 @@
 - 🔭 Currently working on : News Summary APP
 
 </br>
-<h2>💻 Tech Stack </h2>
-<h3 align="center">I'm familiar with...</h3>
+<h3>💻 Tech Stack 💻</h3>
+<h4>I'm familiar with...</h4>
 <p>
 <img src='https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&nbspAccess&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white'/></t></t>
@@ -23,7 +22,7 @@
 <img src='https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white'/></t></t>
 </p>
 
-<h3 align="center">Techs that I've used at least once</h3>
+<h4>Techs that I've used at least once</h4>
 <p>
 <img src='https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&nbspAccess&logoColor=white'/></t></t>
