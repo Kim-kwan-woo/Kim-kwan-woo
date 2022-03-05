@@ -1,10 +1,11 @@
-## Hi there, I'm KWANWOO 👋
+## 👋 Hi there, I'm KWANWOO 
 ### Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Android App
 - 📫 How to reach me : kkw2775@gmail.com
 - 🌱 Currently learning : Android and Kotlin
-- 🔭 Currently working on : News Summary APP
+- 🔭 Currently working on : Stying Android native app
+<br>
 <p>
 <a href="https://github.com/Kim-kwan-woo"><img src="https://img.shields.io/badge/GitHub-181717?style=appveyor&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@kw2577"><img src="https://img.shields.io/badge/Velog-3DDC84?style=appveyor&logo=Velog&logoColor=white"/></a>
