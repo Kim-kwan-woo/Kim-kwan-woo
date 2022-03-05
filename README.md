@@ -19,8 +19,8 @@
 <img src='https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&nbspAccess&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white'/></br>
-<img src='https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white'/></br>
 <img src='https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon&nbspAWS&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white'/></t></t>
