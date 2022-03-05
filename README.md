@@ -33,7 +33,7 @@
 <img src='https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&nbspAccess&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white'/></t></t>
-<img src='https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white'/></t></t>
+<img src='https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white'/></br>
 <img src='https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white'/></t></t>
 <img src='https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white'/>
