@@ -9,7 +9,7 @@
 - ⚡ Field of interest : Flutter
 - 📫 How to reach me : kkw2775@gmail.com
 - 🌱 Currently learning : Flutter
-- 🔭 Currently working on : Overseas stock markets APP (Jangjeon)
+- 🔭 Currently working on : pillo app
   
 </br>
 <h3>💻 Tech Stack 💻</h3>
