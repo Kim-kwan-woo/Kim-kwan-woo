@@ -7,7 +7,7 @@
 ### Studying Computer Science at Dongguk Univ. Republic of Korea
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Flutter
-- 📫 How to reach me : kkw2775@gmail.com
+- 📫 How to reach me : kw2577@naver.com
 - 🌱 Currently learning : Flutter
 - 🔭 Currently working on : pillo app
   
